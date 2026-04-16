@@ -1,6 +1,6 @@
-# Greg .. 6 Distribution Strategies Running in Your Terminal
+# Greg .. 7 Distribution Strategies Running in Your Terminal
 
-Most founders build great products and then wonder why nobody knows. Greg runs 6 distribution strategies in parallel.. the same playbook Greg Isenberg uses to build audience-first businesses.
+Most founders build great products and then wonder why nobody knows. Greg runs 7 distribution strategies in parallel.. the same playbook Greg Isenberg uses to build audience-first businesses.
 
 Built on Isenberg's distribution-first approach. Adapted for Claude Code.
 
@@ -23,7 +23,7 @@ STALLED: None
 
 This is real output from Strategy Sprints, where Greg runs daily alongside 14 other AI advisors managing sales, strategy, partnerships, health, and investing.
 
-## The 6 Strategies
+## The 7 Strategies
 
 Every run reads your data, updates the scorecard, and delegates to strategy agents:
 
@@ -35,10 +35,11 @@ Every run reads your data, updates the scorecard, and delegates to strategy agen
 | 4 | AEO | Get cited by AI search engines |
 | 5 | User Brag | Turn member wins into shareable artifacts |
 | 6 | Content Repurposing | One recording becomes 15+ pieces |
+| 7 | [LinkedIn Newsjacking](https://github.com/SimonTheSalesBooster/linkedin-newsjacking) | Daily trending topic posts for your whole team |
 
 ## How It Works
 
-Greg is a **pure strategist**. He reads results, updates the scorecard, designs experiments, and delegates to 6 specialized agents via task files. He does not build or publish anything himself.
+Greg is a **pure strategist**. He reads results, updates the scorecard, designs experiments, and delegates to 7 specialized agents via task files. He does not build or publish anything himself.
 
 The daily loop:
 
@@ -60,6 +61,7 @@ Each strategy has its own agent:
 - `greg-s4-aeo` .. writes FAQ content with JSON-LD schema for AI citation
 - `greg-s5-brag` .. builds shareable HTML artifact cards from member wins
 - `greg-s6-repurpose` .. full content pipeline from raw recording to published everywhere
+- `greg-s7-linkedin-news` .. [daily LinkedIn newsjacking](https://github.com/SimonTheSalesBooster/linkedin-newsjacking) — 9 posts (3 topics x 3 voices)
 
 ## Install in 2 Minutes
 
